@@ -1,3 +1,2 @@
 I'm writing some text to the file
-
 And adding some new lines e.t.c
